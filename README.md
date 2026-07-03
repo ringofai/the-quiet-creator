@@ -1,4 +1,4 @@
-# The Quiet Creator — AI Coaching Companion
+# AI Coach for Introverts
 
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-1.0-blue)](https://agentskills.io)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
