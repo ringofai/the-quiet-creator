@@ -6,7 +6,7 @@
 
 ![The Quiet Creator — AI Coaching Companion](assets/hero.png)
 
-> An AI Agent skill that coaches you through real situations — speaking up in meetings, setting boundaries, managing your energy, leading without shouting. Not encouragement. A practical system.
+> An AI agent who roleplays conversations, catches your self-criticism, and tracks your growth across sessions. Not encouragement. A practical system.
 
 ---
 
