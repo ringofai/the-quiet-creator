@@ -67,11 +67,11 @@ Say something self-critical. The agent catches it and reframes it as a strength 
 
 ## Who It's For
 
-**Professionals who are quiet in meetings but brilliant in writing** — Learn to prepare before the meeting, buy yourself time when put on the spot, and make your quiet contribution land with more weight.
+**Young Professionals who are quiet in meetings but brilliant in writing** — Learn to prepare before the meeting, buy yourself time when put on the spot, and make your quiet contribution land with more weight.
+
+**Managers who lead with empathy, not volume** — Develop your quiet leadership style. Set boundaries without guilt. Influence decisions without dominating conversations.
 
 **Creators who do their best work alone but struggle to promote it** — Get coaching on pitching, networking, and advocating for your work without feeling like you're selling out.
-
-**Leaders who lead with empathy, not volume** — Develop your quiet leadership style. Set boundaries without guilt. Influence decisions without dominating conversations.
 
 **Anyone who has ever thought "I'm too quiet for this world"** — Not to become louder. To become more intentional.
 
