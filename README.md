@@ -137,4 +137,6 @@ Star the repo. It helps other introverts find a coaching system, not just encour
 
 *Based on the book [The Quiet Creator: How Introverts Can Shine Without Shouting](https://www.amazon.com/dp/B0DT94SPRB) by Ringo Fai.*
 
+The book teaches you *about* your introvert strengths. This skill helps you **practice** them — live, with an AI agent who roleplays conversations, catches your self-criticism, and tracks your growth across sessions. One is insight. The other is training.
+
 ![The Quiet Creator book cover](assets/book-cover.jpg)
