@@ -6,7 +6,7 @@
 
 ![The Quiet Creator — AI Coaching Companion](assets/hero.png)
 
-> An AI agent who roleplays conversations, catches your self-criticism, and tracks your growth across sessions. Not encouragement. A practical system.
+> AI coaching experience for introverts — coach yourself through meetings, boundaries, energy management, and quiet leadership. Not encouragement. A practical system.
 
 ---
 
