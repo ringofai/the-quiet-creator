@@ -6,13 +6,13 @@
 
 ![The Quiet Creator — AI Coaching Companion](assets/hero.png)
 
-> An AI Agent skill that coaches introverts through real situations — speaking up in meetings, setting boundaries, preparing for high-stakes conversations. Load it once. Use it whenever you need it.
+> An AI Agent skill that coaches you through real situations — speaking up in meetings, setting boundaries, managing your energy, leading without shouting. Not encouragement. A practical system.
 
 ---
 
 ## What It Does
 
-This skill turns your AI Agent into a coaching companion for introverts. It doesn't encourage you to "be louder." It gives you structured frameworks (PREP, 3-Door Decision, Energy Audit, Introversion Map) and runs live exercises — roleplaying difficult conversations, practicing the 60-Second Pivot, building a Quiet Win Log over time.
+This skill turns your AI Agent into a coaching companion. It doesn't encourage you to "be louder." It gives you structured frameworks (PREP, 3-Door Decision, Energy Audit, Introversion Map) and runs live exercises — roleplaying difficult conversations, practicing the 60-Second Pivot, building a Quiet Win Log over time.
 
 It adapts to your energy today, catches self-critical language and reframes it on the spot, and maintains a journal across sessions so growth is trackable.
 
