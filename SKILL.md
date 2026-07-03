@@ -450,3 +450,15 @@ Some introverts also have ADHD or are highly sensitive (HSP). The exercises must
 ```bash
 npx skills add ringofai/the-quiet-creator
 ```
+
+---
+
+## Based On
+
+This skill is based on the book *The Quiet Creator: How Introverts Can Shine Without Shouting* by Ringo Fai.
+
+The frameworks, exercises, and coaching philosophy in this skill are adapted from the book's chapters on energy management, quiet leadership, communication, boundaries, and fear as fuel.
+
+**You don't need to have read the book to use this skill.** The skill is self-contained. But if the approach resonates, the book goes deeper into the stories, research, and exercises behind each framework.
+
+Available on Amazon: [The Quiet Creator](https://www.amazon.com/dp/B0DT94SPRB)

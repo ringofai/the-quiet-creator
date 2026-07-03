@@ -132,3 +132,7 @@ Star the repo. It helps other introverts find a coaching system, not just encour
 ## License
 
 [CC BY 4.0](LICENSE) — Free to share and adapt with attribution to Ringo Fai.
+
+---
+
+*Based on the book [The Quiet Creator: How Introverts Can Shine Without Shouting](https://www.amazon.com/dp/B0DT94SPRB) by Ringo Fai.*
